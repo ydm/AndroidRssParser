@@ -16,6 +16,11 @@ Android.
     * Compatibility tools for supporting older versions of Android
       when compiling against newer.
 
+###Features
+* All fields of Item objects are guaranteed to have empty values
+  instead of nulls.
+* Progress notification.
+
 License
 -------
 [GPLv3](http://www.gnu.org/licenses/gpl.txt)
