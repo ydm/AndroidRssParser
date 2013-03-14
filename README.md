@@ -24,8 +24,10 @@ Android.
 
 License
 -------
-Apache Commons Lang is licensed under [Apache License
-v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+[Apache Commons Lang](http://commons.apache.org/proper/commons-lang/)
+is a Java library developed by the Apache Foundation. Please refer to
+the project site for more information about licenses and
+redistribution policy.
 
 AndroidRssParser, AndroidRssParserTest and AndroidVersionCompatibility
 are all three licensed under
