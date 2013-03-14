@@ -23,7 +23,12 @@ Android.
 
 License
 -------
-[GPLv3](http://www.gnu.org/licenses/gpl.txt)
+Apache Commons Lang is licensed under [Apache License
+v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+AndroidRssParser, AndroidRssParserTest and AndroidVersionCompatibility
+are all three licensed under
+[LGPLv3](http://www.gnu.org/licenses/lgpl.txt)
 
 TODOS
 -----
