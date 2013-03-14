@@ -10,8 +10,9 @@ Android.
 
 ###The parser library depends on
 * AndroidApacheCommonsLang
-    * [Apache Commons Lang adaptation for
-      Android](http://commons.apache.org/proper/commons-lang/)
+    * [Apache Commons
+      Lang](http://commons.apache.org/proper/commons-lang/) adaptation
+      for Android
 * AndroidVersionCompatibility
     * Compatibility tools for supporting older versions of Android
       when compiling against newer.
